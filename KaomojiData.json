@@ -1,0 +1,1436 @@
+﻿{
+  "Kaomoji": [
+    {
+      "Emoticon": "(* ^ ω ^)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(´ ∀ ` *)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "٩(◕‿◕｡)۶",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "☆*:.｡.o(≧▽≦)o.｡.:*☆",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(o^▽^o)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(⌒▽⌒)☆",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "<(￣︶￣)>",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "。.:☆*:･'(*⌒―⌒*)))",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(・∀・)ﾉ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(´｡• ω •｡`)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(￣ω￣)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "｀;:゛;｀;･(°ε° )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(o･ω･o)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(＠＾◡＾)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(*・ω・)ﾉ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(^人^)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(o´▽`o)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*´▽`*)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ´ ω ` )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(((o(*°▽°*)o)))",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(≧◡≦)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(o´∀`o)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(´• ω •`)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(＾▽＾)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(⌒ω⌒)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "∑d(°∀°d)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "╰(▔∀▔)╯",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(─‿‿─)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*^‿^*)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(o^ ^o)ﾉ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(✯◡✯)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(◕‿◕)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*≧ω≦*)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(☆▽☆)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(⌒‿⌒)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "＼(≧▽≦)／",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(o＾▽＾o)ノ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "☆ ～('▽^人)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*°▽°*)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "٩(｡•́‿•̀｡)۶",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(✧ω✧)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(*⌒▽⌒*)ﾉ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(´｡• ᵕ •｡`)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ´ ▽ ` )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(￣▽￣)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "╰(*´︶`*)╯",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "ヽ(>∀<☆)ノ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "o(≧▽≦)o",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(☆ω☆)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(っ˘ω˘ς )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "＼(￣▽￣)／",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*¯︶¯*)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "＼(＾▽＾)／",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "٩(◕‿◕)۶",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(o˘◡˘o)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "\\(★ω★)/",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "\\(^ヮ^)/",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(〃＾▽＾〃)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(╯✧▽✧)╯",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "o(>ω<)o",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "o( ❛ᴗ❛ )o",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "｡ﾟ(TヮT)ﾟ｡",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ‾́ ◡ ‾́ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(ﾉ´ヮ`)ﾉ*: ･ﾟ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(b ᵔ▽ᵔ)b",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(๑˃ᴗ˂)ﻭ",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ˙꒳​˙ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "°˖✧◝(⁰▿⁰)◜✧˖°",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(´･ᴗ･ ` )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(„• ֊ •„)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(.❛ ᴗ ❛.)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(⁀ᗢ⁀)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(￢‿￢ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(¬‿¬ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(*￣▽￣)b",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ˙▿˙ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(¯▿¯)",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "( ◕▿◕ )",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "＼(٥⁀▽⁀ )／",
+      "Categories": [ 0, 3 ]
+    },
+    {
+      "Emoticon": "(ﾉ´ з `)ノ",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(♡μ_μ)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(*^^*)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "☆⌒ヽ(*'､^*)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(♡-_-♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(￣ε￣＠)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "ヽ(♡‿♡)ノ",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "( ´ ∀ `)ノ～ ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(─‿‿─)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´｡• ᵕ •｡`) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(*♡∀♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(｡・//ε//・｡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´ ω `♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡( ◡‿◡ )",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(◕‿◕)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(/▽＼*)｡o○♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(ღ˘⌣˘ღ)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(♡°▽°♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡(｡- ω -)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡ ～('▽^人)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´• ω •`) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´ ε ` )♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´｡• ω •｡`) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "( ´ ▽ ` ).｡ｏ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "╰(*´︶`*)╯♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(*˘︶˘*).｡.:*♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(♡˙︶˙♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡＼(￣▽￣)／♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(≧◡≦) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(⌒▽⌒)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(*¯ ³¯*)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(っ˘з(˘⌣˘ ) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡ (˘▽˘>ԅ( ˘⌣˘)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "( ˘⌣˘)♡(˘⌣˘ )",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(/^-^(^ ^*)/ ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "٩(♡ε♡)۶",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "σ(≧ε≦σ) ♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡ (⇀ 3 ↼)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "♡ (￣З￣)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(❤ω❤)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(˘∀˘)/(μ‿μ) ❤",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "❤ (ɔˆз(ˆ⌣ˆc)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´♡‿♡`)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(°◡°♡)",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "Σ>―(〃°ω°〃)♡→",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´,,•ω•,,)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(´꒳`)♡",
+      "Categories": [ 0, 4 ]
+    },
+    {
+      "Emoticon": "(⌒_⌒;)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(o^ ^o)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(*/ω＼)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(*/。＼)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(*/_＼)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "(*ﾉωﾉ)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(o-_-o)",
+      "Categories": [ 1, 2, 5 ]
+    },
+    {
+      "Emoticon": "(*μ_μ)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "( ◡‿◡ *)",
+      "Categories": [ 0, 1, 5 ]
+    },
+    {
+      "Emoticon": "(ᵔ.ᵔ)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(*ﾉ∀`*)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(//▽//)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(//ω//)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(ノ*°▽°*)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "(*^.^*)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(*ﾉ▽ﾉ)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(￣▽￣*)ゞ",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(⁄ ⁄•⁄ω⁄•⁄ ⁄)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "(*/▽＼*)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(„ಡωಡ„)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "(ง ื▿ ื)ว",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "( 〃▽〃)",
+      "Categories": [ 2, 5 ]
+    },
+    {
+      "Emoticon": "(/▿＼ )",
+      "Categories": [ 0, 5 ]
+    },
+    {
+      "Emoticon": "(ノ_<。)ヾ(´ ▽ ` )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "｡･ﾟ･(ﾉД`)ヽ(￣ω￣ )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "ρ(- ω -、)ヾ(￣ω￣; )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "ヽ(￣ω￣(。。 )ゝ",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(*´ I `)ﾉﾟ(ﾉД｀ﾟ)ﾟ｡",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "ヽ(~_~(・_・ )ゝ",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(ﾉ_；)ヾ(´ ∀ ` )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(; ω ; )ヾ(´∀`* )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(*´ー)ﾉ(ノд`)",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(´-ω-`( _ _ )",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(っ´ω`)ﾉ(╥ω╥)",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(ｏ・_・)ノ”(ノ_<、)",
+      "Categories": [ 6 ]
+    },
+    {
+      "Emoticon": "(＃＞＜)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(；⌣̀_⌣́)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "☆ｏ(＞＜；)○",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(￣ ￣|||)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(；￣Д￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(￣□￣」)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＃￣0￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＃￣ω￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(￢_￢;)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＞ｍ＜)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(」°ロ°)」",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(〃＞＿＜;〃)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＾＾＃)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(︶︹︺)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(￣ヘ￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "<(￣ ﹌ ￣)>",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(￣︿￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＞﹏＜)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(--_--)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "凸(￣ヘ￣)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "ヾ( ￣O￣)ツ",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(⇀‸↼‶)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "o(>=< )o",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(」＞＜)」",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(ᗒᗣᗕ)՞",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(눈_눈)",
+      "Categories": [ 2, 7 ]
+    },
+    {
+      "Emoticon": "(＃`Д´)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(・`ω´・)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "( `ε´ )",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(ﾒ` ﾛ ´)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "Σ(▼□▼メ)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(҂ `з´ )",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "٩(╬ʘ益ʘ╬)۶",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "↑_(ΦwΦ)Ψ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(ﾉಥ益ಥ)ﾉ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(`皿´＃)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(`ー´)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ψ( ` ∇ ´ )ψ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(╬`益´)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(°ㅂ°╬)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(‡▼益▼)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(╬ Ò﹏Ó)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "←~(Ψ▼ｰ▼)∈",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "( ` ω ´ )",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ヽ(`⌒´メ)ノ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ヾ(`ヘ´)ﾉﾞ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "┌∩┐(o\\_/o)┌∩┐",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ψ(▼へ▼メ)～→",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(҂` ﾛ ´)凸",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "＼＼٩(๑`^´๑)۶／／",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "୧((#Φ益Φ#))୨",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ヽ( `д´*)ノ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "凸(`△´＃)",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "ヽ(‵﹏´)ノ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "凸( ` ﾛ ´ )凸",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(ノ°益°)ノ",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "((╬o\\_/O))",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(凸ಠ益ಠ)凸",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "٩(ఠ益ఠ)۶",
+      "Categories": [ 2, 8 ]
+    },
+    {
+      "Emoticon": "(ノ_<。)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(μ_μ)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "o(TヘTo)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "( ﾟ，_ゝ｀)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "( ╥ω╥ )",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(／ˍ・、)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(つω`｡)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(T_T)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "o(〒﹏〒)o",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(-_-)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(ﾉД`)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "( ; ω ; )",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(个_个)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(╯_╰)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(ノ_<、)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(｡T ω T｡)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(>_<)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(｡•́︿•̀｡)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(´-ω-`)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(-ω-、)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(｡╯︵╰｡)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(╯︵╰,)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(╥_╥)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(╥﹏╥)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(ﾉω･､)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(っ˘̩╭╮˘̩)っ",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(ಥ﹏ಥ)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": ".･ﾟﾟ･(／ω＼)･ﾟﾟ･.",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "。゜゜(´Ｏ`) ゜゜。",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "｡･ﾟﾟ*(>д<)*ﾟﾟ･｡",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "｡･ﾟ(ﾟ><ﾟ)ﾟ･｡",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": ".｡･ﾟﾟ･(＞_＜)･ﾟﾟ･｡.",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "｡ﾟ(｡ﾉωヽ｡)ﾟ｡",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "･ﾟ･(｡>ω<｡)･ﾟ･",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "｡ﾟ･ (>﹏<) ･ﾟ｡",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "(\"._.)",
+      "Categories": [ 2, 9 ]
+    },
+    {
+      "Emoticon": "~(>_<~)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(×_×)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(×﹏×)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "٩(× ×)۶",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "☆⌒(> _ <)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(x_x)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "☆(＃××)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "_:(´ཀ`」 ∠):_",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "☆⌒(>。<)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(×_×)⌒☆",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(＋_＋)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(☆_@)",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(x_x)⌒☆",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "[ ± _ ± ]",
+      "Categories": [ 2, 10 ]
+    },
+    {
+      "Emoticon": "(ノωヽ)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(″ロ゛)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(/ω＼)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(((＞＜)))",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "▓▒░(°◡°)░▒▓",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(／。＼)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(;;;*_*)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(/_＼)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "{{ (>_<) }}",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(ﾉ_ヽ)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "(・人・)",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "〜(＞＜)〜",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "＼(º □ º I|I)/",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "..・ヾ(。＞＜)シ",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "＼(〇_ｏ)／",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "Σ(°△°|||)︴",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "〣( ºΔº )〣",
+      "Categories": [ 2, 11 ]
+    },
+    {
+      "Emoticon": "ヽ(ー_ー )ノ",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(￣ヘ￣)┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(￣～￣)┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐( ´ д ` )┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮(︶▽︶)╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(￣ヮ￣)┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "ヽ(´ー` )┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "ヽ(￣～￣　)ノ",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(︶▽︶)┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮(︶︿︶)╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮( ˘ ､ ˘ )╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "ᕕ( ᐛ )ᕗ",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(‘～` )┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "ヽ(　￣д￣)ノ",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮(￣_￣)╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "ヽ(ˇヘˇ)ノ",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮(￣～￣)╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "¯\\_(ツ)_/¯",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐(￣∀￣)┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐( ˘ ､ ˘ )┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "┐( ˘_˘ )┌",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "╮( ˘_˘ )╭",
+      "Categories": [ 1, 12 ]
+    },
+    {
+      "Emoticon": "(￣ω￣;)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "┐('～`;)┌",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(・_・;)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(＠_＠)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(•ิ_•ิ)?",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "\"ლ(¯ロ¯\"ლ)\",",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "σ(￣、￣〃)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(・_・ヾ",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(￣_￣)・・・",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(・・;)ゞ",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(◎ ◎)ゞ",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(¯ . ¯٥)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(￣～￣;)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(〃￣ω￣〃ゞ",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "╮(￣ω￣;)╭",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "Σ(￣。￣ﾉ)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(ーー;)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(¯ ¯٥)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(-_-;)・・・",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "┐(￣ヘ￣;)┌",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(¯ . ¯;)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(・・ ) ?",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "ლ(ಠ_ಠ ლ)",
+      "Categories": [ 1, 13 ]
+    },
+    {
+      "Emoticon": "(￢_￢)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(¬_¬ )",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(↼_↼)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(→_→)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(←_←)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(⇀_⇀)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(￢ ￢)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(¬ ¬ )",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "(ᓀ ᓀ)",
+      "Categories": [ 1, 14 ]
+    },
+    {
+      "Emoticon": "w(°ｏ°)w",
+      "Categories": [ 1, 15 ]
+    },
+    {
+      "Emoticon": "(⊙_⊙)",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "(°ロ°) !",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "∑(O_O;)",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "ヽ(°〇°)ﾉ",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "(o_O)",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "(o_O) !",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "( : ౦ ‸ ౦ : )",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "Σ(O_O)",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "(O_O;)",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "(□_□)",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "Σ(°ロ°)",
+      "Categories": [ 2, 15 ]
+    },
+    {
+      "Emoticon": "(O.O)",
+      "Categories": [ 1, 2, 15 ]
+    },
+    {
+      "Emoticon": "Σ(□_□)",
+      "Categories": [ 2, 15 ]
+    }
+  ]
+}
