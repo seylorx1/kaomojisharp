@@ -3,12 +3,17 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Authors>Lyes Oussaiden</Authors>
-    <Company />
+    <Company>N/A</Company>
     <ApplicationIcon>KaomojiSharpIcon.ico</ApplicationIcon>
     <Version>0.1</Version>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageLicenseFile>MIT License.txt</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
     <PackageIcon>KaomojiSharpIcon.png</PackageIcon>
+    <RepositoryType>Git</RepositoryType>
+    <RepositoryUrl>https://github.com/seylorx1/kaomojisharp</RepositoryUrl>
+    <Description>Kaomojis in your code!</Description>
+    <Copyright>Lyes Oussaiden</Copyright>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
@@ -30,7 +35,7 @@
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
-    <None Include="C:\Users\lyesi\Desktop\MIT License.txt">
+    <None Include="LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
