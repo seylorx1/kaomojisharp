@@ -39,7 +39,7 @@ There is no limit to the amount of times you can call `KaomojiDataHandler.Load()
 
 ```csharp
 /*NEVER DO THIS*/
-new Kaomoji.GetRandom();
+Kaomoji.GetRandom();
 KaomojiDataHandler.Load();
 ```
 
