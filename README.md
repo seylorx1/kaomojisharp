@@ -1,9 +1,11 @@
 ![Kaomoji Logo](/webcontent/KaomojiSharpIcon.png)
 # kaomojisharp
-### Kaomojis in your code!
+### Kaomojis in your code! o(\*^▽^\*)┛
 
 
 To begin using KaomojiSharp, simply search for "KaomojiSharp" in the NuGet package manager or, alternatively, you can browse through this repository's packages [here](https://github.com/seylorx1/kaomojisharp/packages/).
+
+Keep in mind that Kaomojis will only render correctly in **unicode** compatible environments. They will **not** display in the console correctly if you haven't [set it up to do so](https://stackoverflow.com/questions/388490/how-to-use-unicode-characters-in-windows-command-line). ASCII support will be added in the future.
 
 #### How do I use KaomojiSharp in my code?
 
@@ -16,7 +18,7 @@ KaomojiSharp is (or at least should be) .NET 2.0 compliant and is an incredibly 
 - [Customising Kaomoji](#customising-kaomoji)
 - [Kaomoji Categories](#kaomoji-categories)
 
-## Loading Kaomoji
+## Loading Kaomoji 
 If `Load();` is not called explicitely prior to doing so, KaomojiSharp will automatically load Kaomojis from a JSON file in your exectuable's folder named [KaomojiData.json](KaomojiData.json) whenever any `Kaomoji.Get...();` function is called. 
 
 >  [KaomojiData](KaomojiData.json) should be added automagically whenever you import KaomojiSharp through NuGet.
@@ -118,5 +120,5 @@ Confusion | 13 | ❌
 Doubt | 14 | ❌
 Surprise | 15 | ❌
 
-### Is Broad?
+### Is Broad? ⊙﹏⊙∥
 *Postive, Neutral, and Negative* categories are **broad**. This means that at least one of them feature on **every Kaomoji**. This means that you can search for the `Positive` category which will return any positive - or 'good feeling' - Kaomoji whereas searching for a category which **is not broad** such as `Surprise` will only return kaomojis which indicate surprise.
